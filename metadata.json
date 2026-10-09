@@ -1,0 +1,6 @@
+{
+  "name": "Bubble - WiFi File Server & Share",
+  "description": "High-speed local WiFi file sharing and browser server for mobile devices connected to the same router or Zong Evo device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
